@@ -8,9 +8,14 @@
 repo sync -jx --no-clone-bundle
 ```
 *编译
-````bash
+
+```bash
 . build/envsetup.sh
+```
+
+```bash
 lunch aosp_q3-eng && mka -jx recoveryiamge
+```
 
 
 
