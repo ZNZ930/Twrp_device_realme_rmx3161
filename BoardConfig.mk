@@ -172,7 +172,7 @@ TW_INCLUDE_FUSE_EXT4 := true
 TW_USE_TOOLBOX := true 
 
 #custom add
-TARGET_CRYPTFS_HW_PATH := vendor/qcom/opensource/cryptfs_hw
+#TARGET_CRYPTFS_HW_PATH := vendor/qcom/opensource/cryptfs_hw
 
 # Debug-tools
 TWRP_INCLUDE_LOGCAT := true
