@@ -160,7 +160,7 @@ TW_INCLUDE_BASH := true
 
 # Fix stock .ozip installation
 TW_SKIP_COMPATIBILITY_CHECK := true
-TW_OZIP_DECRYPT_KEY := 0000
+#TW_OZIP_DECRYPT_KEY := 0000
 
 # Include some file system support
 TW_INCLUDE_FUSE_NTFS := true
